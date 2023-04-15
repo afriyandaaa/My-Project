@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889898381127",
+    "project_id": "praskripsi-4c8fe",
+    "storage_bucket": "praskripsi-4c8fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889898381127:android:10519b23b5bafe52922662",
+        "android_client_info": {
+          "package_name": "firebasenotif.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889898381127-ikli98eeqc7q068h6gvq2bv7rrj07ogu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jJ76ov67_0RiW-tOd8DwSTUml56gIPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889898381127-ikli98eeqc7q068h6gvq2bv7rrj07ogu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
